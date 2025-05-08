@@ -1,0 +1,14 @@
+<script>start("/Users/endouwataru/dic_cafe/images/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow(".DS_Store",".DS_Store",0,6148,"6.0 kB",1744019830,"2025/04/07 18:57:10");</script>
+<script>addRow("sample_cafe1.jpg","sample_cafe1.jpg",0,61616,"60.2 kB",1743916555,"2025/04/06 14:15:55");</script>
+<script>addRow("sample_cafe2.jpg","sample_cafe2.jpg",0,73164,"71.4 kB",1743916608,"2025/04/06 14:16:48");</script>
+<script>addRow("sample_cafe3.jpg","sample_cafe3.jpg",0,71189,"69.5 kB",1743916620,"2025/04/06 14:17:00");</script>
+<script>addRow("sample_cafe4.jpg","sample_cafe4.jpg",0,69410,"67.8 kB",1743916624,"2025/04/06 14:17:04");</script>
+<script>addRow("sample_concept.jpg","sample_concept.jpg",0,50566,"49.4 kB",1743916628,"2025/04/06 14:17:08");</script>
+<script>addRow("sample_key.jpg","sample_key.jpg",0,76949,"75.1 kB",1743916633,"2025/04/06 14:17:13");</script>
+<script>addRow("sample_logo_k.png","sample_logo_k.png",0,3518,"3.4 kB",1743916657,"2025/04/06 14:17:37");</script>
+<script>addRow("sample_logo_w.png","sample_logo_w.png",0,3229,"3.2 kB",1743916661,"2025/04/06 14:17:41");</script>
+<script>addRow("sample_menu_bg.jpg","sample_menu_bg.jpg",0,67435,"65.9 kB",1743916667,"2025/04/06 14:17:47");</script>
+<script>addRow("sample_pancake1.jpg","sample_pancake1.jpg",0,113746,"111 kB",1743916679,"2025/04/06 14:17:59");</script>
+<script>addRow("sample_pancake2.jpg","sample_pancake2.jpg",0,110282,"108 kB",1743916702,"2025/04/06 14:18:22");</script>
